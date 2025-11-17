@@ -1,0 +1,9 @@
+{
+	"name": "df-azureproject-sammudev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e021557-06df-48c0-822a-e5aa2255fbe9",
+		"tenantId": "29949da9-3d5f-4d6e-a73d-0d3e5e585075"
+	}
+}
